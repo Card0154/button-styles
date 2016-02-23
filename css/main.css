@@ -11,3 +11,108 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: #333;
+}
+
+.btn:hover{
+  background-color: #000;
+}
+
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-ghost:hover{
+
+}
+
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn-warning:hover{
+
+}
+
+.btn-small {
+  background-color: #333;
+}
+
+.btn-small:hover{
+
+}
+
+.btn-subtle-small {
+  background-color: #ccc;
+}
+
+.btn-subtle-small:hover{
+
+}
+
+.btn-ghost-small {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-ghost-small:hover{
+
+}
+
+.btn-warning-small {
+  background-color: #f33;
+}
+
+.btn-warning-small:hover{
+
+}
+
+.btn-big {
+  background-color: #333;
+}
+
+.btn-big:hover{
+
+}
+
+.btn-subtle-big {
+  background-color: #ccc;
+}
+
+.btn-subtle-big:hover{
+
+}
+
+.btn-ghost-big {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-ghost-big:hover{
+
+}
+
+.btn-warning-big {
+  background-color: #f33;
+}
+
+.btn-warning-big:hover{
+
+}
