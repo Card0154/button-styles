@@ -12,109 +12,59 @@ div {
   text-align: center;
 }
 
-a {
+div a {
   color: #fff;
   text-decoration: none;
+  font-size: 1.125rem;
 }
 
 .btn {
   background-color: #333;
-}
-
-.btn:hover{
-  background-color: #000;
+  display: inline-block;
+  padding: 0.4em 0.75em 0.3em;
+  border-radius: 8px;
+  border-width: 3px;
 }
 
 .btn-subtle {
   background-color: #ccc;
 }
 
-.btn-subtle:hover {
-  background-color: #666;
-}
-
 .btn-ghost {
   background-color: #fff;
   color: #000;
-}
-
-.btn-ghost:hover{
-  background-color: #666;
-  color: #fff;
+  border-width: 3px;
 }
 
 .btn-warning {
   background-color: #f33;
 }
 
-.btn-warning:hover{
-  background-color: #933;
-}
-
 .btn-small {
-  background-color: #333;
-}
-
-.btn-small:hover{
-  background-color: #000;
-}
-
-.btn-subtle-small {
-  background-color: #ccc;
-}
-
-.btn-subtle-small:hover{
-  background-color: #666;
-}
-
-.btn-ghost-small {
-  background-color: #fff;
-  color: #000;
-}
-
-.btn-ghost-small:hover{
-  background-color: #666;
-  color: #fff;
-}
-
-.btn-warning-small {
-  background-color: #f33;
-}
-
-.btn-warning-small:hover{
-  background-color: #933;
+  font-size: 0.875rem;
 }
 
 .btn-big {
-  background-color: #333;
+  font-size: 1.5rem;
 }
 
-.btn-big:hover{
+.btn-primary:hover {
   background-color: #000;
 }
 
-.btn-subtle-big {
-  background-color: #ccc;
-}
-
-.btn-subtle-big:hover{
+.btn-subtle:hover {
   background-color: #666;
 }
 
-.btn-ghost-big {
-  background-color: #fff;
-  color: #000;
-}
-
-.btn-ghost-big:hover{
+.btn-ghost:hover {
   background-color: #666;
   color: #fff;
 }
 
-.btn-warning-big {
-  background-color: #f33;
+.btn-warning:hover {
+  background-color: #933;
 }
 
-.btn-warning-big:hover{
-  background-color: #933;
+.btn:hover {
+
 }
